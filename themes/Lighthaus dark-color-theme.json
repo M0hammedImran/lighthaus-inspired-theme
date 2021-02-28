@@ -29,12 +29,13 @@
     "breadcrumb.focusForeground": "#D16BB7",
     "breadcrumb.foreground": "#D68EB2",
     "button.hoverBackground": "#D16BB7",
-    "breadcrumbPicker.background": "#21252D",
+    "breadcrumbPicker.background": "#454b58",
     "statusBar.border": "#47A8A1",
     "statusBar.background": "#50c16e",
     "statusBar.foreground": "#21252d",
     "statusBarItem.activeBackground": "#44b273",
-    "editorCursor.background": "#FFFF00"
+    "editorCursor.background": "#FFFF00",
+    "charts.lines": "#ff0000"
   },
   "tokenColors": [
     {

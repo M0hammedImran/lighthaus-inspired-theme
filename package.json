@@ -2,10 +2,16 @@
   "name": "lighthaus-inspired-theme",
   "displayName": "Lighthaus inspired theme",
   "description": "This is a theme inspired by the colorscheme by lighthaus https://github.com/lighthaus",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "publisher": "M0hammedImran",
   "author": {
-    "name": "Mohammed Imran <mohammedimran86992@gmail.com>",
+    "name": "Mohammed Imran",
+    "email": "mohammedimran86992@gmail.com",
     "url": "https://github.com/M0hammedImran"
+  },
+  "galleryBanner": {
+    "color": "#C80000",
+    "theme": "dark"
   },
   "keywords": [
     "theme",
@@ -14,7 +20,12 @@
     "dark-theme"
   ],
   "repository": {
-    "url": "https://github.com/M0hammedImran/lighthaus-inspired-theme"
+    "type": "git",
+    "url": "https://github.com/M0hammedImran/lighthaus-inspired-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/M0hammedImran/lighthaus-inspired-theme/issues",
+    "email": "mohammedimran86992@gmail.com"
   },
   "engines": {
     "vscode": "^1.53.0"
