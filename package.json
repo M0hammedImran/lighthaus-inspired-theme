@@ -3,6 +3,19 @@
   "displayName": "Lighthaus inspired theme",
   "description": "This is a theme inspired by the colorscheme by lighthaus https://github.com/lighthaus",
   "version": "0.0.1",
+  "author": {
+    "name": "Mohammed Imran <mohammedimran86992@gmail.com>",
+    "url": "https://github.com/M0hammedImran"
+  },
+  "keywords": [
+    "theme",
+    "vscode",
+    "lighthaus",
+    "dark-theme"
+  ],
+  "repository": {
+    "url": "https://github.com/M0hammedImran/lighthaus-inspired-theme"
+  },
   "engines": {
     "vscode": "^1.53.0"
   },

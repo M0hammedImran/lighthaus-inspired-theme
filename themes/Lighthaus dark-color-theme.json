@@ -4,10 +4,15 @@
   "colors": {
     "editor.background": "#18181E",
     "editor.foreground": "#FFEE79",
-    "activityBarBadge.background": "#18181E",
-    "sideBarTitle.foreground": "#FFEE79",
+    "editor.selectionForeground": "#ff4d00",
+    "editor.selectionBackground": "#090b26",
     "editorIndentGuide.background": "#404040",
     "editorRuler.foreground": "#FF4D00",
+    "activityBarBadge.background": "#18181E",
+    "sideBarTitle.foreground": "#FFEE79",
+    "sideBar.background": "#18181e",
+    "sideBar.border": "#21252d",
+    "sideBar.foreground": "#FFEE79",
     "activityBar.activeBackground": "#18181E",
     "activityBar.activeBorder": "#1d9188",
     "activityBar.activeFocusBorder": "#404040",
@@ -25,15 +30,11 @@
     "breadcrumb.foreground": "#D68EB2",
     "button.hoverBackground": "#D16BB7",
     "breadcrumbPicker.background": "#21252D",
-    "sideBar.background": "#18181e",
-    "sideBar.border": "#21252d",
-    "statusBar.background": "#44B273",
     "statusBar.border": "#47A8A1",
-    "sideBar.foreground": "#FFEE79",
-    "editorCursor.background": "#FFFF00",
-    "selection.background": "#ff0000"
-
-    // "breadcrumbPicker.foreground": "#21252D"
+    "statusBar.background": "#50c16e",
+    "statusBar.foreground": "#21252d",
+    "statusBarItem.activeBackground": "#44b273",
+    "editorCursor.background": "#FFFF00"
   },
   "tokenColors": [
     {
@@ -317,7 +318,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#82AAFF"
+        "foreground": "#47A8A1"
       }
     },
     {
@@ -327,7 +328,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#FF5370"
+        "foreground": "#44b273"
       }
     },
     {
@@ -336,7 +337,7 @@
         "source.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#d68eb2"
       }
     },
     {
